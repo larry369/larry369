@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./im_here_banner.png" width="1600" alt="Blue Duck" />
+  <img src="./im_here_banner2.png" width="1600" alt="Blue Duck" />
   
   <h3>Just a software engineer in Taiwan trying to survive,<br/>chasing big dreams through half-finished side projects.</h3>
   <p>只是個在台灣努力活著的軟體工程師，靠著一堆做到一半的 side projects 追著不切實際的大夢。</p>
