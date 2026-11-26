@@ -51,8 +51,3 @@
 * 🎹 **Thinking** about changing the world...
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larry369&show_icons=true&theme=vercel&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larry369&layout=compact&theme=vercel&hide_border=true" height="165" />
-</div>
