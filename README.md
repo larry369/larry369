@@ -13,11 +13,6 @@
 
 ---
 
-### 🧪 Currently Building & Exploring
-- 🖥️ **Desktop Utilities & Messaging**: Building lightweight cross-platform desktop apps with **Tauri v2, Rust, and React**.
-- 🏭 **Enterprise & MES Architecture**: Designing scalable supply chain & manufacturing systems with **Spring Boot, .NET, and PostgreSQL**.
-- 🤖 **AI-Assisted Workflows**: Experimenting with **Python (FastAPI)**, local LLMs, and spec-driven development.
-
 ### 🛠️ Tools I Use
 
 **Frontend**
