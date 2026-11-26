@@ -3,7 +3,6 @@
   
   <h3>Just a software engineer in Taiwan trying to survive,<br/>chasing big dreams through half-finished side projects.</h3>
   <p>只是個在台灣努力活著的軟體工程師，靠著一堆做到一半的 side projects 追著不切實際的大夢。</p>
-  <p>一個在鞋廠的工程師</p>
 
   <p>
     <a href="https://larry369.github.io/">
