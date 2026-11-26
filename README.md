@@ -47,7 +47,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🦆 Off the Clock (Side Quests)
-* 🎨 **Drawing** original characters & LINE stickers — [Meet 爛鴨 on LINE Store](https://line.me)
+* 🎨 **Drawing** original characters & LINE stickers — [Meet 爛鴨 on LINE Store](https://store.line.me/stickershop/author/2359644/en)
 * 🎹 **Thinking** about changing the world...
 
 ---
